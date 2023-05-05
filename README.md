@@ -36,8 +36,7 @@ Out of the 82 corpora available in the ENG-UK and ENG-NA subsections of the CHIL
 |ENG-NA|Higginson|0;11 – 2;11||Higginson (1985)|  
 |ENG-NA|MacWhinney|0;7 – 8;0|Diary and Notrans-late subfolders have been removed|MacWhinney (1991)|  
 |ENG-NA|McCune|1;0 – 3;0||McCune (1995)|  
-|ENG-NA|Morisset|2;6|Seattle subfolder has been removed|Morisset, Barnard, Greenberg, Booth |  
-|& Spieker (1990)|  
+|ENG-NA|Morisset|2;6|Seattle subfolder has been removed|Morisset, Barnard, Greenberg, Booth & Spieker (1990)|  
 |ENG-NA|Nelson|1;9 – 3;0||Nelson (1989)|  
 |ENG-NA|Post|1;7 – 2;8||Demetras, Post & Snow (1986)|  
 |ENG-NA|Rollins|0;6 – 1;0||Rollins (2003) & Trautman & Rollins (2006)|  
