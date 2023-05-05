@@ -3,6 +3,22 @@ This repository contains code and information for the following paper: Freudenth
 
 **CHILDES Corpora used**
 
+To select the corpora, the following criteria were applied:
+
+1.	The corpora were in the main folder of ENG-NA and ENG-UK subsections of the CHILDES database.
+
+2.	The corpora did not also appear in the ASDBank or PHONBank subsections of the CHILDES database. 
+
+3.	The data were of naturalistic speech (or could be separated into naturalistic and non-naturalistic subsections). 
+
+4.	The data were of interactions between children and their caregivers. 
+
+5.	The target children were all typically developing and not clinical controls. 
+
+6.	The data were transcribed in Codes for Human Analysis Transcript (CHAT) format (MacWhinney, 1991). 
+
+Out of the 82 corpora available in the ENG-UK and ENG-NA subsections of the CHILDES database, 47 were excluded for the following reasons: The corpora were also in ASDBank (1) or PhonBank (9), the target children were also clinical controls (12) or not typically developing (1), the data were not in CHAT format (2), the data were not of naturalistic speech (17) and the data were not of child-caregiver interaction (2) or the majority of interactions in the data were from adults other than caregivers (3). Details of the remaining 35 corpora which were included are provided in the table below along with any amendments made to the original corpora. Importantly, using a variety of corpora allowed a dense sample of CDS to be analysed, with the average age of child input at the start of recordings being 1;9 (range 6 weeks – 4;6).
+
 |Origin|Dataset|Age Range|Amendments Made|Reference|  
 |---|---|---|---|---|  
 |ENG-NA|Bates|1;8 – 2;4|Story28 subfolder has been removed|Bates (1988)|  
