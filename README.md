@@ -57,4 +57,3 @@ Out of the 82 corpora available in the ENG-UK and ENG-NA subsections of the CHIL
 |ENG-UK|Thomas|2;0 – 4;11 ||Maslen, Theakston, Lieven & Tomasello (2004)|  
 |ENG-UK|Wells|1;6 – 5;0||Wells (1981)|  
 
-**Corpus preprocessing performed**
